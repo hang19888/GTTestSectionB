@@ -15,4 +15,4 @@ $ pod install
 ### Unit test
 1. open GTTest.xcworkspace
 2. select 'GTTest' scheme
-3. Run project
+3. Run project with Unit Test
